@@ -17,9 +17,9 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "X-burger",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "name": "Moda italiana",
-      "price": "",
+      "price": "25,90",
       "description": "",
       "available": true,
       "id": 4
