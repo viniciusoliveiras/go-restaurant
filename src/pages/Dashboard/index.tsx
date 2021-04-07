@@ -50,7 +50,7 @@ export default function Dashboard() {
         f.id !== foodUpdated.data.id ? f : foodUpdated.data
       );
 
-      setEditingFood(foodsUpdated);
+      setFoods(foodsUpdated);
     } catch (err) {
       console.log(err);
     }
